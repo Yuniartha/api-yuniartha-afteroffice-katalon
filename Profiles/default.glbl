@@ -19,4 +19,9 @@
       <initValue>0</initValue>
       <name>globalId</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'morpheus'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
